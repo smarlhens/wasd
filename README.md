@@ -12,5 +12,13 @@ This repository is intended to list all the keyboard layouts I have made. All th
     - [105-Key Full Size](http://www.wasdkeyboards.com/index.php/products/mechanical-keyboard/wasd-v3-105-key-iso-custom-mechanical-keyboard.html)
     - [88-Key Tenkeyless](http://www.wasdkeyboards.com/index.php/products/mechanical-keyboard/wasd-v3-88-key-iso-custom-mechanical-keyboard.html)
 
+---
+
 ### Want to try to customize your keyboard?
 Follow the instructions on this [tutorial](https://support.wasdkeyboards.com/hc/en-us/articles/115009403848-Intro-to-Custom-Layouts).
+
+---
+
+### An example of a custom keyboard with NF-Z71-300 layout
+
+<img src="https://github.com/smarlhens/wasd/blob/master/examples/nf-z71-300-wasd-inkscape-105-8.16.2019.png" width="100%" alt="NF-Z71-300"/>
