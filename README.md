@@ -1,4 +1,4 @@
-<img src="http://www.wasdkeyboards.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/a/wasd_logo_-_white_bg.jpg" width="250" alt="WASD"/>
+<img src="https://github.com/smarlhens/wasd/blob/master/wasd-logo.png" width="250" alt="WASD"/>
 
 ---
 
